@@ -1,4 +1,4 @@
 const readme = `\
-⏰ Updated on ${new Date().toUTCString()}
+⏰ Updated on ${new Date().toISTString()}
 `
 console.log(readme)
